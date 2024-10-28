@@ -32,6 +32,7 @@ This project is an Automatic Water Dispenser controlled by an IR sensor and an A
 - Power Supply: 9V for the pump, with the Arduino powered through either USB or an external supply.
 
 you can refer the circuit diagram image attached in this folder.
+![2_Circuit_Diagram](https://github.com/user-attachments/assets/7530338d-6f09-467d-b26e-ecccebbcc76e)
 
 
 ## WORKING:
