@@ -56,7 +56,7 @@ you can also see that working demonstration video of our model .
 - Breadboard (optional) – For easy wiring and prototyping.
 - Water Container/Tank – To store water.
 
-##STEP 2: Circuit Assembly
+## STEP 2: Circuit Assembly
 
 Follow the steps to connect the components to the Arduino.
 
