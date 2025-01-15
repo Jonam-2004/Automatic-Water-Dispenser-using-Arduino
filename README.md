@@ -152,3 +152,25 @@ Select the Arduino Uno board and the correct COM port from the Tools menu in the
 Click the Upload button to upload the code to the Arduino.
 
 ## STEP 5: Verify the Correct working of the project
+
+## 📚 References
+
+- [Arduino Uno Documentation](https://www.arduino.cc/en/Guide/ArduinoUno)
+- [IR Sensor Tutorial](https://www.tutorialspoint.com/arduino/arduino_ir_sensor.htm)
+- [Water Level Sensor Guide](https://www.circuitdigest.com/tutorial/water-level-sensor-arduino-tutorial)
+
+---
+
+## 👥 Contributors
+
+- **Prasanna Venkatesh S**  
+- **Abishek S**  
+- **Manoj S**
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
