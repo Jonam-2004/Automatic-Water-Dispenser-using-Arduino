@@ -164,8 +164,7 @@ Click the Upload button to upload the code to the Arduino.
 ## 👥 Contributors
 
 - **Prasanna Venkatesh S**
-- **[<sub><ahref="https://github.com/Abishek9342">Abishek9342</a></sub>]**
-- **Abishek S**  
+- **[Abishek S](https://github.com/Abishek9342)**  
 - **Manoj S**
 
 ---
